@@ -3,6 +3,9 @@
 <browserconfig>
     <msapplication>
         <tile>hola2
+        2 commit 
+        Rama 0.1 cambio 2
+    
             <square70x70logo src="tile.png"/>
             <square150x150logo src="tile.png"/>
             <wide310x150logo src="tile-wide.png"/>
